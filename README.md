@@ -1,7 +1,4 @@
-<!--
-   README for "VPN/Proxy Server" by thehackitect
-   Replace placeholders, adjust image references, and add your own content as needed.
--->
+
 
 <p align="center">
   <img src="dashboard.png" alt="VPN/Proxy Banner" width="60%" />
@@ -13,7 +10,7 @@
 
 <a href="https://github.com/thehackitect"><img src="https://img.shields.io/badge/Maintainer-thehackitect-blue?style=flat-square"></a>
 <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat-square" alt="license MIT"></a>
-<img src="https://img.shields.io/github/stars/thehackitect/ProxyVPN?style=flat-square" alt="GitHub stars">
+<img src="https://img.shields.io/github/stars/thehackitect/VPS-Proxy-Server?style=flat-square" alt="GitHub stars">
 
 </div>
 
@@ -23,9 +20,6 @@
 
 **“Dark-Mode VPN/Proxy Server”** is a powerful yet intuitive tool that transforms a standard VPS into a robust, feature‑rich proxy server. Built in **Python/Flask**, it provides a sleek web dashboard with real-time usage analytics, user management, ban/unban controls, data limits, and much more—while keeping it all wrapped in a modern, dark-themed UI.
 
-<p align="center">
-  <img src="docs/images/screenshot.png" alt="Screenshot of the UI" width="70%"/>
-</p>
 
 ### Key Features
 
